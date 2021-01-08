@@ -2,7 +2,7 @@
 
 Files Included:
 
-  Makefile -> Used to compile and link files
+  Makefile -> Used to compile and link files\n
   pandemic.tsv -> Composed of covid-19 stats to be parsed
   tsvToBin.c -> Parses the data in pandemic.tsv into 3 seperate .bin files
   pandemicStats.c -> Allows you to process and display the 3 .bin files produced by tsvToBin.c
